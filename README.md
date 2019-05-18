@@ -1,0 +1,3 @@
+# Uiautomator2AutojsClient
+结合了autojs的App与uiautomator2的查找元素api，实现完全脱离USB以及wifi执行脚本
+
